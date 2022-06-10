@@ -1,5 +1,5 @@
-- Instalar dependencias
-npm install
+- Instalar dependencias:
+- npm install
 
--ejecutar aplicación
-npm start
+- ejecutar aplicación:
+- npm start
